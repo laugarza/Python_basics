@@ -131,10 +131,12 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 
 **A  method is a function that “belongs to” an object. A method is a function that takes a class instance as its first parameter. Methods are members of classes.**
 
- `index()` get the index of the first element of a list that matches its input and
+ - For example `list.append( )`append is a method of the class list.  
+
+ `index()` get the index of the first element of a list that matches its input. 
 `count()`  get the number of times an element appears in a list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwMDM0NjA1LDEyOTA2MDU4MzYsMTgyOT
-MxMDIzOSwtMTA2NjgyODcwOSwxMTM4MDA4OTk4LDgyNjIxNzAw
-MSwtMTgxMDEwMDU1NSwtMTY0ODYyODkzN119
+eyJoaXN0b3J5IjpbLTE3ODQ0NjEwMDUsMTI5MDYwNTgzNiwxOD
+I5MzEwMjM5LC0xMDY2ODI4NzA5LDExMzgwMDg5OTgsODI2MjE3
+MDAxLC0xODEwMTAwNTU1LC0xNjQ4NjI4OTM3XX0=
 -->
