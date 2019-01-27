@@ -138,8 +138,14 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 `append()` adds an element to the list it is called on,
 `remove()`removes the first element of a list that matches the input, and
 `reverse()`reverses the order of the elements in the list it is called on.
+
+## Packages
+
+`math` package
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzM4NjU3NCwxMjkwNjA1ODM2LDE4Mj
-kzMTAyMzksLTEwNjY4Mjg3MDksMTEzODAwODk5OCw4MjYyMTcw
-MDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
+eyJoaXN0b3J5IjpbLTE2NzgwNjkzOTksMTY4NzM4NjU3NCwxMj
+kwNjA1ODM2LDE4MjkzMTAyMzksLTEwNjY4Mjg3MDksMTEzODAw
+ODk5OCw4MjYyMTcwMDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5Mz
+ddfQ==
 -->
