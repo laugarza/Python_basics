@@ -95,7 +95,8 @@ Remove elements from your list. You can do this with the  `del`  statement:
 	x_new = del(x[2])
 
 ## # Inner workings of lists
-to prevent changes in a  master list  from also taking effect in `areas`, you'll have to do a more explicit copy of the `areas` list. You can do this with [`list()`](https://docs.python.org/3/library/functions.html#func-list) or by using `[:]`.
+to prevent changes in a  master list, for example  `areas_copy`  from also taking effect in `areas`, you'll have to do a more explicit copy of the `areas` list. You can do this with using the command `list()`
+
 	# Create list areas
 	areas = [11.25, 18.0, 20.0, 10.75, 9.50]
 
@@ -109,6 +110,6 @@ to prevent changes in a  master list  from also taking effect in `areas`, you'll
 	print(areas)
 	print(areas_copy)	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM1MjIxNjAsLTE2NDg2Mjg5MzddfQ
+eyJoaXN0b3J5IjpbLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ
 ==
 -->
