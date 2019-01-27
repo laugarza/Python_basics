@@ -94,6 +94,21 @@ Remove elements from your list. You can do this with the  `del`  statement:
 	x = ["a", "b", "c", "d"]
 	x_new = del(x[2])
 
+## # Inner workings of lists
+to prevent changes in a  master list  from also taking effect in `areas`, you'll have to do a more explicit copy of the `areas` list. You can do this with [`list()`](https://docs.python.org/3/library/functions.html#func-list) or by using `[:]`.
+	# Create list areas
+	areas = [11.25, 18.0, 20.0, 10.75, 9.50]
+
+	# Create areas_copy
+	areas_copy = list(areas)
+
+	# Change areas_copy
+	areas_copy[0] = 5.0
+
+	# Print areas
+	print(areas)
+	print(areas_copy)	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg2Mjg5MzddfQ==
+eyJoaXN0b3J5IjpbLTIwNDM1MjIxNjAsLTE2NDg2Mjg5MzddfQ
+==
 -->
