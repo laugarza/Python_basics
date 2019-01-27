@@ -109,7 +109,9 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 	# Print areas
 	print(areas)
 	print(areas_copy)	
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ
-==
+eyJoaXN0b3J5IjpbMTkyMDc5MTgyNSwtMTgxMDEwMDU1NSwtMT
+Y0ODYyODkzN119
 -->
