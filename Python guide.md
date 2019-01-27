@@ -23,7 +23,7 @@ Similar functions such as int(), float() and bool() will help you convert Python
 	I started with $100 and now have $194.87171000000012. Awesome!
 	
 # Lists
-A list is a compound data type; you can group values together:
+**A list is a compound data type; you can group values together:**
 
 	# area variables (in square meters)
 	hall = 11.25
@@ -129,10 +129,12 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 
 ## Methods
 
+**A  method is a function that “belongs to” an object. A method is a function that takes a class instance as its first parameter. Methods are members of classes.**
+
  `index()` get the index of the first element of a list that matches its input and
 `count()`  get the number of times an element appears in a list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDYwNTgzNiwxODI5MzEwMjM5LC0xMD
-Y2ODI4NzA5LDExMzgwMDg5OTgsODI2MjE3MDAxLC0xODEwMTAw
-NTU1LC0xNjQ4NjI4OTM3XX0=
+eyJoaXN0b3J5IjpbNDgwMDM0NjA1LDEyOTA2MDU4MzYsMTgyOT
+MxMDIzOSwtMTA2NjgyODcwOSwxMTM4MDA4OTk4LDgyNjIxNzAw
+MSwtMTgxMDEwMDU1NSwtMTY0ODYyODkzN119
 -->
