@@ -117,6 +117,8 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 #Functions
  `help()` get the  definition of a function and how it should work
  
+ `max()` get the max number of the list;
+ 
  `len()` get the length of the list; it also works on strings to count the number of character.
  
   `complex()` returns a complex number from a real part and an optional imaginary part. 
@@ -125,6 +127,7 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
     Return a new list containing all items from the iterable in ascending/descending order or by using a key function.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY4Mjg3MDksMTEzODAwODk5OCw4Mj
-YyMTcwMDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
+eyJoaXN0b3J5IjpbMTgyOTMxMDIzOSwtMTA2NjgyODcwOSwxMT
+M4MDA4OTk4LDgyNjIxNzAwMSwtMTgxMDEwMDU1NSwtMTY0ODYy
+ODkzN119
 -->
