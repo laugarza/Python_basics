@@ -110,8 +110,13 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 	print(areas)
 	print(areas_copy)	
 
+	#Results
+	areas = [11.25, 18.0, 20.0, 10.75, 9.50]
+	areas_copy = [5.0, 18.0, 20.0, 10.75, 9.50]
 
+#Functions
+ `len()`function is extremely useful; it also works on strings to count the number of character
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDc5MTgyNSwtMTgxMDEwMDU1NSwtMT
-Y0ODYyODkzN119
+eyJoaXN0b3J5IjpbODI2MjE3MDAxLC0xODEwMTAwNTU1LC0xNj
+Q4NjI4OTM3XX0=
 -->
