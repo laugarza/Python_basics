@@ -114,7 +114,8 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 	areas = [11.25, 18.0, 20.0, 10.75, 9.50]
 	areas_copy = [5.0, 18.0, 20.0, 10.75, 9.50]
 
-#Functions
+# Functions
+
  `help()` get the  definition of a function and how it should work
  
  `max()` get the max number of the list;
@@ -126,10 +127,12 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
   `sorted()` sorted(iterable, key=None, reverse=False)
     Return a new list containing all items from the iterable in ascending/descending order or by using a key function.  
 
--   [`index()`](https://docs.python.org/3/library/stdtypes.html#str.index), to get the index of the first element of a list that matches its input and
--   [`count()`](https://docs.python.org/3/library/stdtypes.html#str.count), to get the number of times an element appears in a list
+## Methods
+
+ `index()` get the index of the first element of a list that matches its input and
+`count()`  get the number of times an element appears in a list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU1MzE0NjcsMTgyOTMxMDIzOSwtMT
-A2NjgyODcwOSwxMTM4MDA4OTk4LDgyNjIxNzAwMSwtMTgxMDEw
-MDU1NSwtMTY0ODYyODkzN119
+eyJoaXN0b3J5IjpbMTI5MDYwNTgzNiwxODI5MzEwMjM5LC0xMD
+Y2ODI4NzA5LDExMzgwMDg5OTgsODI2MjE3MDAxLC0xODEwMTAw
+NTU1LC0xNjQ4NjI4OTM3XX0=
 -->
