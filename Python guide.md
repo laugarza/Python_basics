@@ -126,8 +126,10 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
   `sorted()` sorted(iterable, key=None, reverse=False)
     Return a new list containing all items from the iterable in ascending/descending order or by using a key function.  
 
+-   [`index()`](https://docs.python.org/3/library/stdtypes.html#str.index), to get the index of the first element of a list that matches its input and
+-   [`count()`](https://docs.python.org/3/library/stdtypes.html#str.count), to get the number of times an element appears in a list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTMxMDIzOSwtMTA2NjgyODcwOSwxMT
-M4MDA4OTk4LDgyNjIxNzAwMSwtMTgxMDEwMDU1NSwtMTY0ODYy
-ODkzN119
+eyJoaXN0b3J5IjpbLTE2MDU1MzE0NjcsMTgyOTMxMDIzOSwtMT
+A2NjgyODcwOSwxMTM4MDA4OTk4LDgyNjIxNzAwMSwtMTgxMDEw
+MDU1NSwtMTY0ODYyODkzN119
 -->
