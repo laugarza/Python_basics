@@ -115,9 +115,13 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 	areas_copy = [5.0, 18.0, 20.0, 10.75, 9.50]
 
 #Functions
- `len()` get the length of the list; it also works on strings to count the number of character
-  `complex()` returns a complex number, 
+ `len()` get the length of the list; it also works on strings to count the number of character.
+ 
+  `complex()` returns a complex number from a real part and an optional imaginary part.
+
+*complex(real[, imag]) -> complex number
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTYwNzQ5NCwxMTM4MDA4OTk4LDgyNj
+eyJoaXN0b3J5IjpbMTgwNzcyOTYzNywxMTM4MDA4OTk4LDgyNj
 IxNzAwMSwtMTgxMDEwMDU1NSwtMTY0ODYyODkzN119
 -->
