@@ -10,7 +10,7 @@
 **bool**, or **boolean**: a type to represent logical values. Can only be True or False (the capitalization is important!).
 
 ### Convert types:
-explicitly convert the types of your variables. More specifically, you'll need str(), to convert a value into a string. str(savings), for example, will convert the float savings to a string.
+Convert the types of your variables. More specifically, you'll need str(), to convert a value into a string. str(savings), for example, will convert the float savings to a string.
 
 Similar functions such as int(), float() and bool() will help you convert Python values into any type.
 
@@ -115,8 +115,8 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 	areas_copy = [5.0, 18.0, 20.0, 10.75, 9.50]
 
 #Functions
- `len()`function is extremely useful; it also works on strings to count the number of character
+ `len()` get the length of the list; it also works on strings to count the number of character
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MjE3MDAxLC0xODEwMTAwNTU1LC0xNj
-Q4NjI4OTM3XX0=
+eyJoaXN0b3J5IjpbMTEzODAwODk5OCw4MjYyMTcwMDEsLTE4MT
+AxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
 -->
