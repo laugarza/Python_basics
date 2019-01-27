@@ -121,10 +121,10 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
  
   `complex()` returns a complex number from a real part and an optional imaginary part. 
 
-
-
+  `sorted()` sorted(iterable, key=None, reverse=False)
+    Return a new list containing all items from the iterable in ascending/descending order or by using a key function.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzIwMjk4NCwxMTM4MDA4OTk4LDgyNj
-IxNzAwMSwtMTgxMDEwMDU1NSwtMTY0ODYyODkzN119
+eyJoaXN0b3J5IjpbLTEwNjY4Mjg3MDksMTEzODAwODk5OCw4Mj
+YyMTcwMDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
 -->
