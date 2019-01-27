@@ -116,7 +116,8 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 
 #Functions
  `len()` get the length of the list; it also works on strings to count the number of character
+  `complex()` returns a complex number, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODAwODk5OCw4MjYyMTcwMDEsLTE4MT
-AxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
+eyJoaXN0b3J5IjpbLTMzNTYwNzQ5NCwxMTM4MDA4OTk4LDgyNj
+IxNzAwMSwtMTgxMDEwMDU1NSwtMTY0ODYyODkzN119
 -->
