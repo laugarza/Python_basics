@@ -147,10 +147,27 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 #### Functions of numpy
 `np.array()` to create a numpy array from a list
 
+To subset both regular Python lists and `numpy` arrays, you can use square brackets
+	# Import numpy
+	import numpy as np
+	#Calculate the BMI: bmi
+	np_height_m = np.array(height_in) * 0.0254
+	np_weight_kg = np.array(weight_lb) * 0.453592
+	bmi = np_weight_kg / np_height_m ** 2
+
+	#Create the light array
+	light = bmi < 21
+
+	#Print out light
+	print(light)
+
+	#Print out BMIs of all baseball players whose BMI is below 21
+	print(bmi[light])
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTg2ODA0LC0xNjc4MDY5Mzk5LDE2OD
-czODY1NzQsMTI5MDYwNTgzNiwxODI5MzEwMjM5LC0xMDY2ODI4
-NzA5LDExMzgwMDg5OTgsODI2MjE3MDAxLC0xODEwMTAwNTU1LC
-0xNjQ4NjI4OTM3XX0=
+eyJoaXN0b3J5IjpbMjM1NzYxMTE1LDIxMDE4NjgwNCwtMTY3OD
+A2OTM5OSwxNjg3Mzg2NTc0LDEyOTA2MDU4MzYsMTgyOTMxMDIz
+OSwtMTA2NjgyODcwOSwxMTM4MDA4OTk4LDgyNjIxNzAwMSwtMT
+gxMDEwMDU1NSwtMTY0ODYyODkzN119
 -->
