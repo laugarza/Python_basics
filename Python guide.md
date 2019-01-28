@@ -142,10 +142,15 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 ## Packages
 
 `math` package
+`numpy` package
+
+#### Functions of numpy
+`np.array()` to create a numpy array from a list
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzgwNjkzOTksMTY4NzM4NjU3NCwxMj
-kwNjA1ODM2LDE4MjkzMTAyMzksLTEwNjY4Mjg3MDksMTEzODAw
-ODk5OCw4MjYyMTcwMDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5Mz
-ddfQ==
+eyJoaXN0b3J5IjpbMjEwMTg2ODA0LC0xNjc4MDY5Mzk5LDE2OD
+czODY1NzQsMTI5MDYwNTgzNiwxODI5MzEwMjM5LC0xMDY2ODI4
+NzA5LDExMzgwMDg5OTgsODI2MjE3MDAxLC0xODEwMTAwNTU1LC
+0xNjQ4NjI4OTM3XX0=
 -->
