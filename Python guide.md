@@ -147,8 +147,9 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 ### Functions of numpy
 `np.array()` to create a numpy array from a list
 
-
-**To subset both regular Python lists and `numpy` arrays, you can use square brackets**
+ - numpy arrays cannot contain elements with different types.
+ - he typical arithmetic operators, such as `+`, `-`, `*` and `/` have a different meaning for regular Python lists and `numpy` arrays.
+ - **To subset both regular Python lists and `numpy` arrays, you can use square brackets**
 
 		#Calculate the BMI: bmi
 		np_height_m = np.array(height_in) * 0.0254
@@ -165,9 +166,11 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 		print(bmi[light])
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MjA3NjUzLC0xMTE0MDA5MDY5LDIxMD
-E4NjgwNCwtMTY3ODA2OTM5OSwxNjg3Mzg2NTc0LDEyOTA2MDU4
-MzYsMTgyOTMxMDIzOSwtMTA2NjgyODcwOSwxMTM4MDA4OTk4LD
-gyNjIxNzAwMSwtMTgxMDEwMDU1NSwtMTY0ODYyODkzN119
+eyJoaXN0b3J5IjpbLTQyNTA0OTE2NSwtMTExNDAwOTA2OSwyMT
+AxODY4MDQsLTE2NzgwNjkzOTksMTY4NzM4NjU3NCwxMjkwNjA1
+ODM2LDE4MjkzMTAyMzksLTEwNjY4Mjg3MDksMTEzODAwODk5OC
+w4MjYyMTcwMDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
+
 -->
