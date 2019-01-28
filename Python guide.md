@@ -148,7 +148,7 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 `np.array()` to create a numpy array from a list
 
  - numpy arrays cannot contain elements with different types.
- - he typical arithmetic operators, such as `+`, `-`, `*` and `/` have a different meaning for regular Python lists and `numpy` arrays.
+ - The typical arithmetic operators, such as `+`, `-`, `*` and `/` have a different meaning for regular Python lists and `numpy` arrays.
  - **To subset both regular Python lists and `numpy` arrays, you can use square brackets**
 
 		#Calculate the BMI: bmi
@@ -168,9 +168,9 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTA0OTE2NSwtMTExNDAwOTA2OSwyMT
-AxODY4MDQsLTE2NzgwNjkzOTksMTY4NzM4NjU3NCwxMjkwNjA1
-ODM2LDE4MjkzMTAyMzksLTEwNjY4Mjg3MDksMTEzODAwODk5OC
-w4MjYyMTcwMDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
+eyJoaXN0b3J5IjpbLTExMTM5NDk0OTcsLTExMTQwMDkwNjksMj
+EwMTg2ODA0LC0xNjc4MDY5Mzk5LDE2ODczODY1NzQsMTI5MDYw
+NTgzNiwxODI5MzEwMjM5LC0xMDY2ODI4NzA5LDExMzgwMDg5OT
+gsODI2MjE3MDAxLC0xODEwMTAwNTU1LC0xNjQ4NjI4OTM3XX0=
 
 -->
