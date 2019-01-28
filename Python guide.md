@@ -147,6 +147,7 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 ### Functions of numpy
 `np.array()` to create a numpy array from a list
 
+
 **To subset both regular Python lists and `numpy` arrays, you can use square brackets**
 
 		#Calculate the BMI: bmi
@@ -165,8 +166,8 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQwMDkwNjksMjEwMTg2ODA0LC0xNj
-c4MDY5Mzk5LDE2ODczODY1NzQsMTI5MDYwNTgzNiwxODI5MzEw
-MjM5LC0xMDY2ODI4NzA5LDExMzgwMDg5OTgsODI2MjE3MDAxLC
-0xODEwMTAwNTU1LC0xNjQ4NjI4OTM3XX0=
+eyJoaXN0b3J5IjpbNTQ3MjA3NjUzLC0xMTE0MDA5MDY5LDIxMD
+E4NjgwNCwtMTY3ODA2OTM5OSwxNjg3Mzg2NTc0LDEyOTA2MDU4
+MzYsMTgyOTMxMDIzOSwtMTA2NjgyODcwOSwxMTM4MDA4OTk4LD
+gyNjIxNzAwMSwtMTgxMDEwMDU1NSwtMTY0ODYyODkzN119
 -->
