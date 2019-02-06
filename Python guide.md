@@ -175,8 +175,10 @@ A numpy array is a grid of values, all of the same type, and is indexed by a tup
 
 ### Subsetting
 
+You can use `[:,0]` to select the first column from an array
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDg0NDY0MiwyMDk0MzU2MzEwLC0xMT
+eyJoaXN0b3J5IjpbMTA5NDk0MTU3OCwyMDk0MzU2MzEwLC0xMT
 E0MDA5MDY5LDIxMDE4NjgwNCwtMTY3ODA2OTM5OSwxNjg3Mzg2
 NTc0LDEyOTA2MDU4MzYsMTgyOTMxMDIzOSwtMTA2NjgyODcwOS
 wxMTM4MDA4OTk4LDgyNjIxNzAwMSwtMTgxMDEwMDU1NSwtMTY0
