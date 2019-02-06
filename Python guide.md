@@ -1,5 +1,8 @@
 
 # Basics
+## Useful Data or tutorials
+http://cs231n.github.io/python-numpy-tutorial/#numpy-arrays
+
 ### Python data types:
 **int**, or **integer**: a number without a fractional part. savings, with the value 100, is an example of an integer.
 
@@ -144,7 +147,11 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 `math` package
 `numpy` package
 
-### Functions of numpy
+## Numpy
+
+### Arrays
+A numpy array is a grid of values, all of the same type, and is indexed by a tuple of nonnegative integers
+
 `np.array()` to create a numpy array from a list
 
  - numpy arrays cannot contain elements with different types.
@@ -166,12 +173,12 @@ to prevent changes in a  master list, for example  `areas_copy`  from also taki
 		#Print out BMIs of all baseball players whose BMI is below 21
 		print(bmi[light])
 
-
+### Subsetting
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDM1NjMxMCwtMTExNDAwOTA2OSwyMT
-AxODY4MDQsLTE2NzgwNjkzOTksMTY4NzM4NjU3NCwxMjkwNjA1
-ODM2LDE4MjkzMTAyMzksLTEwNjY4Mjg3MDksMTEzODAwODk5OC
-w4MjYyMTcwMDEsLTE4MTAxMDA1NTUsLTE2NDg2Mjg5MzddfQ==
-
+eyJoaXN0b3J5IjpbMTExNDg0NDY0MiwyMDk0MzU2MzEwLC0xMT
+E0MDA5MDY5LDIxMDE4NjgwNCwtMTY3ODA2OTM5OSwxNjg3Mzg2
+NTc0LDEyOTA2MDU4MzYsMTgyOTMxMDIzOSwtMTA2NjgyODcwOS
+wxMTM4MDA4OTk4LDgyNjIxNzAwMSwtMTgxMDEwMDU1NSwtMTY0
+ODYyODkzN119
 -->
