@@ -183,10 +183,24 @@ med = np.median
 standard_dev = np.std
 correlation = np.corrcoef
 
+avg = np.mean(np_baseball[:,0])
+print("Average: " + str(avg))
+
+# Print median height. Replace 'None'
+med = np.median(np_baseball[:,0])
+print("Median: " + str(med))
+
+# Print out the standard deviation on height. Replace 'None'
+stddev = np.std(np_baseball[:,0])
+print("Standard Deviation: " + str(stddev))
+
+# Print out correlation between first and second column. Replace 'None'
+corr = np.corrcoef(np_baseball[:,0], np_baseball[:,1])
+print("Correlation: " + str(corr))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMwMTY4MjIsMTA5NDk0MTU3OCwyMD
-k0MzU2MzEwLC0xMTE0MDA5MDY5LDIxMDE4NjgwNCwtMTY3ODA2
-OTM5OSwxNjg3Mzg2NTc0LDEyOTA2MDU4MzYsMTgyOTMxMDIzOS
-wtMTA2NjgyODcwOSwxMTM4MDA4OTk4LDgyNjIxNzAwMSwtMTgx
-MDEwMDU1NSwtMTY0ODYyODkzN119
+eyJoaXN0b3J5IjpbLTgyMDgwNDc0OSwtMjEyMzAxNjgyMiwxMD
+k0OTQxNTc4LDIwOTQzNTYzMTAsLTExMTQwMDkwNjksMjEwMTg2
+ODA0LC0xNjc4MDY5Mzk5LDE2ODczODY1NzQsMTI5MDYwNTgzNi
+wxODI5MzEwMjM5LC0xMDY2ODI4NzA5LDExMzgwMDg5OTgsODI2
+MjE3MDAxLC0xODEwMTAwNTU1LC0xNjQ4NjI4OTM3XX0=
 -->
